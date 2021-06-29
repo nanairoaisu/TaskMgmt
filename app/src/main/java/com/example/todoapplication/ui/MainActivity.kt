@@ -1,9 +1,11 @@
-package com.example.todoapplication
+package com.example.todoapplication.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.*
+import com.example.todoapplication.DatabaseHelper
+import com.example.todoapplication.R
 
 class MainActivity : AppCompatActivity() {
 
